@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExtensionMethodAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Projects\\runtime\\src\\libraries"
+    }
+  }
+}
